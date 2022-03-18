@@ -1,0 +1,30 @@
+#button {
+    background: url(../images/giphyyy.gif);
+}
+
+#search {
+    margin-top: 5rem;
+    padding: 5px;
+    font-size: 10pt
+}
+
+body {
+    background: url(../images/giphy.gif);
+    background-size: cover;
+}
+
+.table {
+    color: black
+}
+
+head {
+    background: lightblue;
+}
+
+.title {
+    color: red
+}
+
+.hello {
+    background: url(../images/check.jpg);
+}
